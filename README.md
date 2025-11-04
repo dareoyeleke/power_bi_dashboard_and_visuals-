@@ -160,6 +160,7 @@ ArcGIS Maps for Power BI for geospatial insights
 ## ⚡ Installation & Usage
 ```
     Download: [DATA JOB VISUALS.pbix](https://github.com/dareoyeleke/power_bi_dashboard_and_visuals-/blob/main/DATA%20JOB%20VISUALS.pbix)
+    & [DATA JOBS DASHBOARD](https://github.com/dareoyeleke/power_bi_dashboard_and_visuals-/blob/main/DATA_JOBS_DASHBOARD.pbix)
     
     Open in Power BI Desktop.
     
