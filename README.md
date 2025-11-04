@@ -158,17 +158,21 @@ Power Query for transformation and data cleaning
 ArcGIS Maps for Power BI for geospatial insights
 ```
 ## ⚡ Installation & Usage
-```
-    Download: [DATA JOB VISUALS.pbix](https://github.com/dareoyeleke/power_bi_dashboard_and_visuals-/blob/main/DATA%20JOB%20VISUALS.pbix)
-    & [DATA JOBS DASHBOARD](https://github.com/dareoyeleke/power_bi_dashboard_and_visuals-/blob/main/DATA_JOBS_DASHBOARD.pbix)
+
+### Download: 
+1) [DATA JOB VISUALS.pbix]
+- (https://github.com/dareoyeleke/power_bi_dashboard_and_visuals-/blob/main/DATA%20JOB%20VISUALS.pbix)
+2) [DATA JOBS DASHBOARD]
+- (https://github.com/dareoyeleke/power_bi_dashboard_and_visuals-/blob/main/DATA_JOBS_DASHBOARD.pbix)
+        
+- Open in Power BI Desktop.
     
-    Open in Power BI Desktop.
+- Explore using:
     
-    Explore using:
+- Page tabs or navigation buttons
     
-    Page tabs or navigation buttons
-    
-    Slicers for filtering data dynamically
-    
-    Tooltips for quick contextual details
-```
+- Slicers for filtering data dynamically
+  
+- Tooltips for quick contextual details
+  
+
