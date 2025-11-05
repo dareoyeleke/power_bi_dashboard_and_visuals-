@@ -151,10 +151,6 @@ Hierarchical Drills for exploring time-based patterns (Year → Quarter → Mont
 ```
 Microsoft Power BI Desktop (.pbix)
 
-DAX for calculated metrics and KPIs
-
-Power Query for transformation and data cleaning
-
 ArcGIS Maps for Power BI for geospatial insights
 ```
 ## ⚡ Installation & Usage
