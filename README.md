@@ -38,28 +38,37 @@ It showcases advanced Power BI features—such as slicers, bookmarks, KPIs, and 
 
 
 # ⚙️ Interactive Features
-```
--    Dynamic Slicers (Dropdown, Tile, Between) for flexible filtering.
-```
+
+
+**Dynamic Slicers (Dropdown, Tile, Between) for flexible filtering.**
+&nbsp;
+&nbsp;
+  
 
 <img width="1920" height="1039" alt="TILE AND BETWEEN SLICERS WITH CLEAR ALL  SLICERS BUTTON" src="https://github.com/user-attachments/assets/1440f875-a519-4c16-91d5-4ab80eb40584" />
 
+&nbsp;
+&nbsp;
 
-```
--    Buttons for navigation between dashboards.
-```
+  
+**Buttons for navigation between dashboards.**
+
+
+
 
 <img width="1918" height="1031" alt="NAVIGATION PAGE" src="https://github.com/user-attachments/assets/fd66c59d-d16e-4641-bf77-5a23220aad60" />
 
-```
--    Bookmarks for guided storytelling.
+&nbsp;
+&nbsp;
 
--    Navigator Buttons for seamless multi-page movement
+**Bookmarks for guided storytelling.**
 
--    Custom Tooltips provide added insights without cluttering visuals.
-```
+**Navigator Buttons for seamless multi-page movement**
 
-1. ## Overview Page
+**Custom Tooltips provide added insights without cluttering visuals.**
+
+   
+   1. ## Overview Page
 <img width="1917" height="1004" alt="DATA JOBS SNIPSDHOT" src="https://github.com/user-attachments/assets/aad20947-5f19-4336-ae13-7a575c4e35d8" />
 
 ```
@@ -94,10 +103,15 @@ It showcases advanced Power BI features—such as slicers, bookmarks, KPIs, and 
 -    Stacked/Clustered Column and Bar Charts for job category and region comparisons.
 ```
 
+&nbsp;
+&nbsp;
+
+
 <img width="1920" height="1039" alt="MAP VISUALS" src="https://github.com/user-attachments/assets/ba2cd35a-6afc-4efc-af05-3296f56b8e6d" />
 
 ```   
--    Geospatial Analysis: Leveraging MapCharts to visualize the global distribution of jobs. Maps and ArcGIS Visuals showing salary and job count distribution geographically
+-    Geospatial Analysis: Leveraging MapCharts to visualize the global distribution of jobs.
+     Maps and ArcGIS Visuals showing salary and job count distribution geographically
     
 -    Color Legends and Tooltips enhance data storytelling.
 ```
